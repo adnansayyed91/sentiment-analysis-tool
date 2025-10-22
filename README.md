@@ -16,4 +16,5 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 
 Libraries: TextBlob / VaderSentiment (for sentiment analysis)
 
-Deployment: Vercel
+Deployment: Render
+Link: https://sentiment-analysis-tool-03ir.onrender.com/
